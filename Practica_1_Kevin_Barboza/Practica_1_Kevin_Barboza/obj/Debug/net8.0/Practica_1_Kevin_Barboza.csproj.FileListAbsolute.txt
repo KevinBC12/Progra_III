@@ -1,0 +1,14 @@
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\bin\Debug\net8.0\Practica_1_Kevin_Barboza.exe
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\bin\Debug\net8.0\Practica_1_Kevin_Barboza.deps.json
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\bin\Debug\net8.0\Practica_1_Kevin_Barboza.runtimeconfig.json
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\bin\Debug\net8.0\Practica_1_Kevin_Barboza.dll
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\bin\Debug\net8.0\Practica_1_Kevin_Barboza.pdb
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\obj\Debug\net8.0\Practica_1_Kevin_Barboza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\obj\Debug\net8.0\Practica_1_Kevin_Barboza.AssemblyInfoInputs.cache
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\obj\Debug\net8.0\Practica_1_Kevin_Barboza.AssemblyInfo.cs
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\obj\Debug\net8.0\Practica_1_Kevin_Barboza.csproj.CoreCompileInputs.cache
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\obj\Debug\net8.0\Practica_1_Kevin_Barboza.dll
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\obj\Debug\net8.0\refint\Practica_1_Kevin_Barboza.dll
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\obj\Debug\net8.0\Practica_1_Kevin_Barboza.pdb
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\obj\Debug\net8.0\Practica_1_Kevin_Barboza.genruntimeconfig.cache
+C:\Users\barbo\source\repos\Practica_1_Kevin_Barboza\Practica_1_Kevin_Barboza\obj\Debug\net8.0\ref\Practica_1_Kevin_Barboza.dll

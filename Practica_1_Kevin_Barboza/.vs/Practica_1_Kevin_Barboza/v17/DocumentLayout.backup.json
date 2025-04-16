@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5002D9-E64D-46BD-B933-172AB73E1ACE}|Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza.csproj|c:\\users\\barbo\\source\\repos\\practica_1_kevin_barboza\\practica_1_kevin_barboza\\data\\gestiontareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5002D9-E64D-46BD-B933-172AB73E1ACE}|Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza.csproj|solutionrelative:practica_1_kevin_barboza\\data\\gestiontareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5002D9-E64D-46BD-B933-172AB73E1ACE}|Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza.csproj|c:\\users\\barbo\\source\\repos\\practica_1_kevin_barboza\\practica_1_kevin_barboza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5002D9-E64D-46BD-B933-172AB73E1ACE}|Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza.csproj|solutionrelative:practica_1_kevin_barboza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5002D9-E64D-46BD-B933-172AB73E1ACE}|Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza.csproj|c:\\users\\barbo\\source\\repos\\practica_1_kevin_barboza\\practica_1_kevin_barboza\\data\\tareasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5002D9-E64D-46BD-B933-172AB73E1ACE}|Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza.csproj|solutionrelative:practica_1_kevin_barboza\\data\\tareasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5002D9-E64D-46BD-B933-172AB73E1ACE}|Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza.csproj|c:\\users\\barbo\\source\\repos\\practica_1_kevin_barboza\\practica_1_kevin_barboza\\data\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5002D9-E64D-46BD-B933-172AB73E1ACE}|Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza.csproj|solutionrelative:practica_1_kevin_barboza\\data\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5002D9-E64D-46BD-B933-172AB73E1ACE}|Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza.csproj|c:\\users\\barbo\\source\\repos\\practica_1_kevin_barboza\\practica_1_kevin_barboza\\data\\tareaconfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5002D9-E64D-46BD-B933-172AB73E1ACE}|Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza.csproj|solutionrelative:practica_1_kevin_barboza\\data\\tareaconfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5002D9-E64D-46BD-B933-172AB73E1ACE}|Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza.csproj|c:\\users\\barbo\\source\\repos\\practica_1_kevin_barboza\\practica_1_kevin_barboza\\data\\tareaprioritaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5002D9-E64D-46BD-B933-172AB73E1ACE}|Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza.csproj|solutionrelative:practica_1_kevin_barboza\\data\\tareaprioritaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TareaSimple.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza\\Data\\TareaSimple.cs",
+              "RelativeDocumentMoniker": "Practica_1_Kevin_Barboza\\Data\\TareaSimple.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza\\Data\\TareaSimple.cs",
+              "RelativeToolTip": "Practica_1_Kevin_Barboza\\Data\\TareaSimple.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T02:03:44.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TareaPrioritaria.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza\\Data\\TareaPrioritaria.cs",
+              "RelativeDocumentMoniker": "Practica_1_Kevin_Barboza\\Data\\TareaPrioritaria.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza\\Data\\TareaPrioritaria.cs",
+              "RelativeToolTip": "Practica_1_Kevin_Barboza\\Data\\TareaPrioritaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:51:10.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TareaConFecha.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza\\Data\\TareaConFecha.cs",
+              "RelativeDocumentMoniker": "Practica_1_Kevin_Barboza\\Data\\TareaConFecha.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza\\Data\\TareaConFecha.cs",
+              "RelativeToolTip": "Practica_1_Kevin_Barboza\\Data\\TareaConFecha.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:36:07.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza\\Data\\Tarea.cs",
+              "RelativeDocumentMoniker": "Practica_1_Kevin_Barboza\\Data\\Tarea.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza\\Data\\Tarea.cs",
+              "RelativeToolTip": "Practica_1_Kevin_Barboza\\Data\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:22:40.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza\\Program.cs",
+              "RelativeDocumentMoniker": "Practica_1_Kevin_Barboza\\Program.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza\\Program.cs",
+              "RelativeToolTip": "Practica_1_Kevin_Barboza\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:36:22.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionTareas.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza\\Data\\GestionTareas.cs",
+              "RelativeDocumentMoniker": "Practica_1_Kevin_Barboza\\Data\\GestionTareas.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\Practica_1_Kevin_Barboza\\Practica_1_Kevin_Barboza\\Data\\GestionTareas.cs*",
+              "RelativeToolTip": "Practica_1_Kevin_Barboza\\Data\\GestionTareas.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:36:14.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
