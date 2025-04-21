@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Gestion de Inventario";
+}
+
+<div class="container-fluid">
+    <div class="row" style="height: 100vh;">
+
+
+        <div class="col-md-6 d-flex justify-content-center align-items-center"
+             style="background: url('/image/ImagenInventario.jpg') center center / cover no-repeat;">
+
+            <div style="background-color: rgba(0, 0, 0, 0.4); padding: 2rem; border-radius: 8px;">
+                <h1 class="display-3 text-white mb-3">Gestion de Inventario</h1>
+                <p class="text-white">
+                    Bienvenido a la Gestion de Inventario
+                </p>
+            </div>
+        </div>
+
+
+        <div class="col-md-6 d-flex flex-column justify-content-center align-items-center">
+            <h2 class="mb-4">Opciones</h2>
+
+            <a class="btn btn-primary w-50 mb-2" href="@Url.Action("Index", "Clientes")">Clientes</a>
+            <a class="btn btn-success w-50 mb-2" href="@Url.Action("Index", "Productos")">Productos</a>
+            <a class="btn btn-info w-50 mb-2" href="@Url.Action("Index", "ClientesProductos")">Inventario</a>
+           
+        </div>
+
+    </div>
+</div>

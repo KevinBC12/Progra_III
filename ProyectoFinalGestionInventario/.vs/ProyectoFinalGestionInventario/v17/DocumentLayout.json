@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\models\\clienteproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\models\\clienteproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\controllers\\clientesproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\controllers\\clientesproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\migrations\\20250417163116_terceramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\migrations\\20250417163116_terceramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\clientesproductos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\clientesproductos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\clientesproductos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\clientesproductos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\clientesproductos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\clientesproductos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\clientesproductos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\clientesproductos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\clientesproductos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\clientesproductos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Migrations\\20250403030249_SegundaMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoFinalGestionInventario\\Migrations\\20250403030249_SegundaMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\areas\\identity\\data\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\areas\\identity\\data\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\migrations\\20250403024115_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\migrations\\20250403024115_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|c:\\users\\barbo\\source\\repos\\proyectofinalgestioninventario\\proyectofinalgestioninventario\\migrations\\20250404013036_secondmigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2927AC-B19E-494F-A8FF-A84DCAEAA495}|ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario.csproj|solutionrelative:proyectofinalgestioninventario\\migrations\\20250404013036_secondmigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250417163116_TerceraMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Migrations\\20250417163116_TerceraMigracion.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Migrations\\20250417163116_TerceraMigracion.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Migrations\\20250417163116_TerceraMigracion.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Migrations\\20250417163116_TerceraMigracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:31:17.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\ReadMe.txt",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\ReadMe.txt",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\ReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-17T00:26:55.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Edit.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T02:10:56.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Delete.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T02:10:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T01:08:00.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T00:55:13.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T00:50:22.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T00:33:19.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T00:33:03.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T00:29:01.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:28:31.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Models\\Cliente.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:27:22.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Details.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T01:19:25.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Create.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T01:19:13.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250404013036_SecondMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Migrations\\20250404013036_SecondMigracion.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Migrations\\20250404013036_SecondMigracion.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Migrations\\20250404013036_SecondMigracion.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Migrations\\20250404013036_SecondMigracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:30:37.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwGcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:59:15.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Controllers\\ClientesProductosController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Controllers\\ClientesProductosController.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Controllers\\ClientesProductosController.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Controllers\\ClientesProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:38:21.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:37:26.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T02:42:35.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Program.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:33:22.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T03:14:14.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250403030249_SegundaMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Migrations\\20250403030249_SegundaMigracion.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Migrations\\20250403030249_SegundaMigracion.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Migrations\\20250403030249_SegundaMigracion.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Migrations\\20250403030249_SegundaMigracion.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:02:49.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Index.cshtml",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Views\\ClientesProductos\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T03:09:00.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250403024115_PrimeraMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Migrations\\20250403024115_PrimeraMigracion.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Migrations\\20250403024115_PrimeraMigracion.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Migrations\\20250403024115_PrimeraMigracion.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Migrations\\20250403024115_PrimeraMigracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:41:16.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Areas\\Identity\\Data\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Areas\\Identity\\Data\\Usuario.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Areas\\Identity\\Data\\Usuario.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Areas\\Identity\\Data\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:19:18.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-03T02:18:42.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteProducto.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Models\\ClienteProducto.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Models\\ClienteProducto.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Models\\ClienteProducto.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Models\\ClienteProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:05:36.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\Models\\Producto.cs",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:03:07.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoFinalGestionInventario\\appsettings.json",
+              "ToolTip": "C:\\Users\\barbo\\source\\repos\\ProyectoFinalGestionInventario\\ProyectoFinalGestionInventario\\appsettings.json",
+              "RelativeToolTip": "ProyectoFinalGestionInventario\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T01:57:48.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
